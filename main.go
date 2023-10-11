@@ -20,7 +20,7 @@ func MaskingUrl(str string) string {
 			isMasking = true
 		}
 
-		if startUrlIndex != 0 && i >= startUrlIndex && isMasking == true {
+		if startUrlIndex != 0 && i >= startUrlIndex && isMasking {
 			if buffer[i] == ' ' {
 				isMasking = false
 			} else {
