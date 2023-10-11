@@ -1,4 +1,5 @@
-# Spam-MaskerЗадачи
+# Spam-Masker
+Задачи
 
 Spam Masker
 Описание задачи
